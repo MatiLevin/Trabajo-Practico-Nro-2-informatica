@@ -5,3 +5,5 @@ Control  de temperatura camara frigorifica
 <img width="3570" height="3221" alt="Image" src="https://github.com/user-attachments/assets/ab188216-98e2-4cfe-9420-c44dd93c41d1" />
 <img width="4425" height="1731" alt="Image" src="https://github.com/user-attachments/assets/3e33d900-e501-4406-80d2-5f6eff3e3671" />
 <img width="4425" height="1731" alt="Image" src="https://github.com/user-attachments/assets/3d5b7cdf-6120-4281-b3ba-75b3f3915a6c" />
+
+######MEMORIA DESCRIPTIVA
