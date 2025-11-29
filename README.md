@@ -153,3 +153,8 @@ El uso de histéresis (deltaT, deltaH, deltaCA) evita cambios frecuentes de esta
 El estado de supervisión de puerta tiene prioridad sobre los demás estados para garantizar la seguridad del recinto.
 
 El estado de emergencia es irreversible sin intervención humana, lo cual previene fallos operativos peligrosos.
+
+
+Se agrega link de Google drive con el video del funcionamiento del proyecto
+
+https://drive.google.com/file/d/1whoBG2V1CbRM98v3MywxtU_qPoJkWZsg/view?usp=sharing
